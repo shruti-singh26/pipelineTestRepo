@@ -6,5 +6,6 @@ phases:
       - echo Build completed on `date`
 artifacts:
   files:
-    - target/ATMApplicationForWeb.war
-  discard-paths: yes
+    - '**/*'
+base-directory: 'output'
+discard-paths: yes
