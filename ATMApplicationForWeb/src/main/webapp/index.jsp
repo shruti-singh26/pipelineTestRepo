@@ -1,5 +1,5 @@
 <html>
-<body bgcolor="red">
+<body bgcolor="green">
 	<h2>Hello!</h2>
 	<form action="PinCheck" method="get">
 		<div class="form-group">
